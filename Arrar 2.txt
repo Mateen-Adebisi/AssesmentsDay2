@@ -1,0 +1,1 @@
+To reference a particular element in an array, specify its row and column number using the following syntax, where A is the matrix variable. Always specify the row first and column second.
